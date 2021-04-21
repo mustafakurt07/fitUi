@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="HOME">Anasayfa</string>
+    <string name="kas">Antreman</string>
+    <string name="takvim">Takvim</string>
+    <string name="sıralama">Sıralama</string>
+    <string name="b_metni">BASARİ METNİ</string>
+</resources>
